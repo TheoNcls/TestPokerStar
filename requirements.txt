@@ -1,0 +1,8 @@
+pyscreenshot
+numpy
+cv2
+streamlit
+os
+time
+re
+argparse
