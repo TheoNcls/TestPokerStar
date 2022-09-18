@@ -1,6 +1,3 @@
 pyscreenshot
 numpy
 streamlit
-time
-re
-argparse
