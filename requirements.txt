@@ -1,6 +1,5 @@
 pyscreenshot
 numpy
-cv2
 streamlit
 os
 time
