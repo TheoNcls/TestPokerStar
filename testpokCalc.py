@@ -2,7 +2,6 @@ import holdem_calc
 import os
 import streamlit as st
 import testImage
-import cv2
 import numpy as np
 from PIL import Image
 import pyscreenshot
