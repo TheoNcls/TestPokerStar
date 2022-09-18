@@ -1,3 +1,4 @@
 pyscreenshot
 numpy
 streamlit
+cv2
